@@ -1,4 +1,4 @@
-# Devise Example for Rails 3.2.x
+# Devise Example for Rails 3.2.11
 
 Example App using devise. http://github.com/plataformatec/devise
 
@@ -16,7 +16,7 @@ Install the gems:
 bundle install
 ```
 
-This will install Rails 3.2.x, sqlite3 gem and Devise 2.2.x.
+This will install Rails 3.2.11, sqlite3 gem and Devise 2.2.3.
 
 Rake devise setup task:
 
