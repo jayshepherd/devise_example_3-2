@@ -1,4 +1,4 @@
-# Devise Example for Rails 3
+# Devise Example for Rails 3.2.x
 
 Example App using devise. http://github.com/plataformatec/devise
 
@@ -16,7 +16,7 @@ Install the gems:
 bundle install
 ```
 
-This will install Rails 3, sqlite3-ruby gem and Devise 1.4.7.
+This will install Rails 3.2.x, sqlite3 gem and Devise 2.2.x.
 
 Rake devise setup task:
 
@@ -35,4 +35,4 @@ Run the server and use the credentials provided by the rake task to sign in and 
 
 ## License
 
-MIT License. Copyright 2010 Plataforma Tecnologia. http://blog.plataformatec.com.br
+MIT License. Copyright 2010-2013 Plataforma Tecnologia. http://blog.plataformatec.com.br
